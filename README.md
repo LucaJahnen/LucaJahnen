@@ -4,6 +4,6 @@ I'm currently solving different challenges provided by [frontendmentor](frontend
 ## Activity
 For the last years I was quite inactive but now I want to be really focused about my learning path to finally become a decent programmer. To motivate myself I decided to use this banner:
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=LucaJahnen&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=LucaJahnen&theme=dark&hide_border=true)
 
 You can create stats like this with the following repository: [Github Stats Generator](https://github.com/omsimos/github-stats?tab=readme-ov-file)
